@@ -31,7 +31,7 @@ A Software Engineer having expertise in Python Development, Web Scraping, Django
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-hamzaarif&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark)](https://github.com/m-hamzaarif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzaarif&layout=compact&theme=vision-friendly-dark)](https://github.com/m-hamzaarif/github-readme-stats)
 
 [twitter]: https://twitter.com/iamhamza_arif
 [linkedin]: https://www.linkedin.com/in/hamzaharif/
