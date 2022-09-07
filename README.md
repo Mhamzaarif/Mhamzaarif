@@ -15,14 +15,11 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=m-hamzaarif&style=flat-square&color=blue" alt=""></p>
 
-### 👨‍💻: &nbsp;About Me :
+### # Hello, folks! 👋
+My name is Hamza Arif and I'm a Python Developer.
 
-I am a Python(Django Developer) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-
-- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 🌱 Exploring new technologies
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Hamza-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzaharif)
+### # About
+A Software Engineer having expertise in Python Development, Web Scraping, Django, Django Rest Framework, Databases, and Data Structures, wants to be a part of an organization where I can utilize my skills and knowledge to help it grow, accompanied by my personal professional growth. 
 
 ---
 
