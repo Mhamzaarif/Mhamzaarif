@@ -2,21 +2,10 @@
 <p align="center">
   <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 </p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamzaharif">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://twitter.com/iamhamza_arif">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/hamzaarif" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-</p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=m-hamzaarif&style=flat-square&color=blue" alt=""></p>
 
 ### # Hello, folks! 👋
-My name is Hamza Arif and I'm a Python Developer.
+My name is Hamza Arif and I'm a Software Engineer.
 
 ### # About
 A Software Engineer having expertise in Python Development, Web Scraping, Django, Django Rest Framework, Databases, and Data Structures, wants to be a part of an organization where I can utilize my skills and knowledge to help it grow, accompanied by my personal professional growth. 
@@ -42,4 +31,12 @@ A Software Engineer having expertise in Python Development, Web Scraping, Django
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-hamzaarif&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hamzaarif&layout=compact&theme=vision-friendly-dark)](https://github.com/m-hamzaarif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=vision-friendly-dark)](https://github.com/m-hamzaarif/github-readme-stats)
+
+[twitter]: https://twitter.com/iamhamza_arif
+[linkedin]: https://www.linkedin.com/in/hamzaharif/
+
+### Connect with me:
+
+[<img align="left" alt="milyasyousuf | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="milyasyousuf | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
